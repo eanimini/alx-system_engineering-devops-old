@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod o+rwe_ug-rwe hello
+chmod 007 hello
